@@ -1,0 +1,5 @@
+game.exe
+*.bmp
+*.dll
+SDL2/
+
